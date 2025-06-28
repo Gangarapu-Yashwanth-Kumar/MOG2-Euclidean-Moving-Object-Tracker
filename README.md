@@ -65,7 +65,7 @@ pip install opencv-python
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request..
 
 ---
 
